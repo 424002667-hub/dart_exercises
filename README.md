@@ -1,14 +1,14 @@
 # Spotify Premium Subscription Calculator
 
 **Name:** Guillido  
-**Scenario:** A Dart program that calculates the total cost of a Spotify Premium subscription plan based on user status (Student vs. Standard rate) over a specified number of months.
+**Scenario:** A Dart program that calculates the total cost of a Spotify Premium subscription plan based on student discount status over a specified duration.
 
 ---
 
 ## How to Run
 
-1. Open your terminal in the `guillido_dart` directory.
-2. Run the program using the Dart CLI:
+1. Open your terminal in the project root directory.
+2. Run the main Dart program located in the `bin/` directory:
 
 ```bash
-dart Guillido.dart
+dart run bin/guillido_dart.dart
