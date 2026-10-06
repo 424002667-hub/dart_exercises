@@ -11,4 +11,4 @@
 2. Run the main Dart program located in the `bin/` directory:
 
 ```bash
-dart run bin/guillido_dart.dart
+dart run bin/Guillido.dart
